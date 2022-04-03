@@ -1,2 +1,2 @@
 # Clustering_Project
-## __Describe a clustering client personality__
+Describe a clustering client personality
